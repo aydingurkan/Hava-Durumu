@@ -9,14 +9,14 @@ function App() {
 
   const fetchWeather = async () => {
     try {
-      const apiKey = '32cc9def9575fa5a7a0720013d3c76f4'; // OpenWeatherMap API Key
+      const apiKey = '32cc9def9575fa5a7a0720013d3c76f4'; 
       const response = await axios.get(
         `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=metric`
       );
 
       setWeatherData(response.data);
 
-      // Set background class based on weather condition
+      
       const weatherCondition = response.data.weather[0].main.toLowerCase();
       if (weatherCondition.includes('clear')) {
         setBackgroundClass('clear-sky');
