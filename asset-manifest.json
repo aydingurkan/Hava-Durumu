@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hava-durumu-uygulamasi/static/css/main.a518b721.css",
-    "main.js": "/hava-durumu-uygulamasi/static/js/main.18dc6027.js",
+    "main.js": "/hava-durumu-uygulamasi/static/js/main.b66be813.js",
     "static/js/151.84ac1eb6.chunk.js": "/hava-durumu-uygulamasi/static/js/151.84ac1eb6.chunk.js",
     "static/media/snowy.jpg": "/hava-durumu-uygulamasi/static/media/snowy.9f2107428b1fb06f4dba.jpg",
     "static/media/cloudy.jpg": "/hava-durumu-uygulamasi/static/media/cloudy.c235be0179efea84662c.jpg",
@@ -9,11 +9,11 @@
     "static/media/rainy.jpg": "/hava-durumu-uygulamasi/static/media/rainy.2b930b42258421af0f48.jpg",
     "index.html": "/hava-durumu-uygulamasi/index.html",
     "main.a518b721.css.map": "/hava-durumu-uygulamasi/static/css/main.a518b721.css.map",
-    "main.18dc6027.js.map": "/hava-durumu-uygulamasi/static/js/main.18dc6027.js.map",
+    "main.b66be813.js.map": "/hava-durumu-uygulamasi/static/js/main.b66be813.js.map",
     "151.84ac1eb6.chunk.js.map": "/hava-durumu-uygulamasi/static/js/151.84ac1eb6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a518b721.css",
-    "static/js/main.18dc6027.js"
+    "static/js/main.b66be813.js"
   ]
 }
