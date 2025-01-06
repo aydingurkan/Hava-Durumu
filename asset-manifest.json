@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/hava-durumu-uygulamasi/static/css/main.a518b721.css",
-    "main.js": "/hava-durumu-uygulamasi/static/js/main.b66be813.js",
-    "static/js/151.84ac1eb6.chunk.js": "/hava-durumu-uygulamasi/static/js/151.84ac1eb6.chunk.js",
+    "main.js": "/hava-durumu-uygulamasi/static/js/main.52c6b203.js",
+    "static/js/149.26025306.chunk.js": "/hava-durumu-uygulamasi/static/js/149.26025306.chunk.js",
     "static/media/snowy.jpg": "/hava-durumu-uygulamasi/static/media/snowy.9f2107428b1fb06f4dba.jpg",
     "static/media/cloudy.jpg": "/hava-durumu-uygulamasi/static/media/cloudy.c235be0179efea84662c.jpg",
     "static/media/clear-sky.jpg": "/hava-durumu-uygulamasi/static/media/clear-sky.e142fe1b6c7821ede15b.jpg",
     "static/media/rainy.jpg": "/hava-durumu-uygulamasi/static/media/rainy.2b930b42258421af0f48.jpg",
     "index.html": "/hava-durumu-uygulamasi/index.html",
     "main.a518b721.css.map": "/hava-durumu-uygulamasi/static/css/main.a518b721.css.map",
-    "main.b66be813.js.map": "/hava-durumu-uygulamasi/static/js/main.b66be813.js.map",
-    "151.84ac1eb6.chunk.js.map": "/hava-durumu-uygulamasi/static/js/151.84ac1eb6.chunk.js.map"
+    "main.52c6b203.js.map": "/hava-durumu-uygulamasi/static/js/main.52c6b203.js.map",
+    "149.26025306.chunk.js.map": "/hava-durumu-uygulamasi/static/js/149.26025306.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a518b721.css",
-    "static/js/main.b66be813.js"
+    "static/js/main.52c6b203.js"
   ]
 }
